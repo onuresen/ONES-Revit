@@ -1,13 +1,25 @@
-# ONES-Revit
-Publish (demo) version of the Revit Addin
+※ Publish (demo) version of the Revit Addin ※
 
-This is a simple publish page for the demo version of the Revit add-in which I developed for my work.
-Original addin ONES has more than 50 tools, 3 different icon options and 3 language options. English, Japanese, and Turkish (ongoing)
-Some of the functions are simple quick features (Override and select tools etc) while some of them are complicated and have bigger functions (Color Filter, Select Filter etc)
+I have developed this add-in while using Revit full time in my job.
+Original addin ONES has more than 50 tools, aalternative icon and language options. English, Japanese, and Turkish (ongoing)
+Some of the functions are simple quick features (Override and select tools etc.) while some of them are complicated and have bigger functions (Color Filter, Select Filter etc.)
 
-Add-in has developed only by myself over 3 years while using Revit full time in my job.
-It's my dream to publish this add-in free to support Revit users all around the world.
-However, I have copyright issues with my company because they decided to publish the add-in company-wide.
-And even though I am the only developer and most of them are developed in my personal time, well I did use some work time as well.
-Until I solve this copyright issue I would like to publish at least a few useful tools.
+I want to publish this add-in free to support Revit users all around the world.
+However, I have copyright issues with my company because it's used company-wide recently.
+Until I solve this copyright issue I would like to publish at least some useful tools.
 Please try it out and let me know for any feedback or questions.
+
+※ Revit eklentisinin demo sürümü ※
+
+Bu Revit eklentisini 3 yıldır Revit'i tam zamanlı olarak isimde kullanırken geliştirdim.
+Orijinal eklenti ONES, 50'den fazla fonksiyon, farklı simge ve dil seçeneklerine sahip. İngilizce, Japonca ve Türkçe (henüz devam ediyor)
+İşlevlerden bazıları basit ama kullanışlık özelliklerdir (Override ve seçme araçları vb.), bazıları ise daha karmaşık ve daha büyük işlevlere sahiptir (Renk Filtresi, Seçim Filtresi gibi vb.)
+
+Dünyanın her yerindeki Revit kullanıcılarını desteklemek için bu eklentiyi ücretsiz olarak yayınlamak istiyorum.
+Ancak şirket genelinde de kullanıldığı için şirketle telif hakkı sorunları yaşıyorum.
+Bu telif hakkı sorununu çözene kadar en azından kullanışlı olan bir kaç fonksiyonu paylaşmak istiyorum.
+Herhangi bir sorunla karşılaşırsanız lütfen bana haber edin.
+
+※ Türkçe dil notu: Revit'in resmi Türkçe seçeneği olmadığı için, terimleri tercüme etmekmekte zorrluk yaşıyorum.
+Bazı teknik terimlerin karşılığı  tam oturmuyor uzun oluyor bazı terimlerse ingilizcesi ile kullanılıyor.
+O yüzden şimdilik İngilziçe kullanmayı tavvsiye ederim ama ingilizce bilmeyen kişileri desteklemek amacıyla Türkçesini de tamamlayacağım inşallah.
