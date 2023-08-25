@@ -30,6 +30,6 @@ O yüzden şimdilik İngilziçe kullanmayı tavsiye ederim ama ingilizce bilmeye
 Summer Theme - Yaz Teması
 ![ONES_Summer](https://github.com/onuresen/ONES-Revit/assets/24977732/7aeddbb9-7ffb-4325-bd53-de46b4f5829b)
 
-Pixel Theme - Yaz Teması
+Pixel Theme - Pixel Teması
 ![ONES_Pixel](https://github.com/onuresen/ONES-Revit/assets/24977732/852561a8-cbd6-4732-886f-3f2e41b5253f)
 
